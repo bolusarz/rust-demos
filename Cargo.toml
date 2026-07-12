@@ -3,7 +3,7 @@ members = [
   "bmi-calc",
   "fibonacci",
   "guessing-game",
-  "palindrome-checker",
+  "palindrome-checker", "prime-checker",
   "simple-calculator",
   "temp-converter",
   "word-counter",
