@@ -1,0 +1,15 @@
+[workspace]
+members = [
+  "bmi-calc",
+  "fibonacci",
+  "guessing-game",
+  "palindrome-checker",
+  "simple-calculator",
+  "temp-converter",
+  "word-counter",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
